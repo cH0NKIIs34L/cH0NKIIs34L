@@ -2,6 +2,8 @@
 
 Hi there! I'm a **college student pursuing IT, specializing in the Web Development track**, passionate about coding, technology, and continuous learning. I also take **extra online courses** to strengthen my skills and explore new areas in programming and software development.
 
+*"Learning is a lifelong journey. Every line of code is a step forward."*
+
 ---
 
 ## 💻 Tech Stack
@@ -15,8 +17,11 @@ Hi there! I'm a **college student pursuing IT, specializing in the Web Developme
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### IDEs & Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -49,7 +54,3 @@ When I'm not coding, I enjoy:
 - Watching **anime** and reading **manwha**
 - **Mobile gaming**
 - **Cooking** and experimenting with recipes
-
----
-
-*"Learning is a lifelong journey. Every line of code is a step forward."*
