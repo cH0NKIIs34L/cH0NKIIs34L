@@ -1,72 +1,149 @@
-# 👋 Welcome to my profile!
+<h2 align="center">👋 Hello there! I'm <a href="https://github.com/MatimotTheTimoters" title="Profile">Chonky_Seal</a></h2>
 
-Hi there! I'm a **college student pursuing IT, specializing in the Web Development track**, passionate about coding, technology, and continuous learning. I also take **extra online courses** to strengthen my skills and explore new areas in programming and software development.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/Developer/Developer.gif" width="300" alt="Developer Illustration">
+</div>
 
-*"Learning is a lifelong journey. Every line of code is a step forward."*
+<p align="center">
+  <strong>🚀 Aspiring Full-Stack Developer | IT Student | Lifelong Learner</strong><br>
+  Passionate about creating digital solutions and mastering the art of code.<br>
+  Constantly expanding my skills through academic studies and online courses.<br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+better+systems+one+commit+at+a+time;Turning+ideas+into+functional+reality;Progress+over+perfection+always" alt="Typing SVG" />
+</p>
 
----
+<div align="center">
+  <em>✨ "You do not rise to the level of your goals. You fall to the level of your systems."<br>— James Clear, Atomic Habits</em>
+</div>
 
-## 💻 Tech Stack & Skills
+<br>
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<div align="center">
+  <h3>📫 Connect with me</h3>
+  <a href="mailto:matimotthetimoters@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/ChonkySeal0295/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://habitica.com/profile/7cd0a992-017b-47f7-b8f6-5620181b0a29">
+    <img src="https://img.shields.io/badge/Habitica-3066BE?style=for-the-badge&logo=habitica&logoColor=white" alt="Habitica" />
+  </a>
+</div>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+<hr>
+<br>
 
-### Databases & SQL
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<h1 align="center">🛠️ Tech Stack</h1>
 
-### Build Tools & Bundlers
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+<h3 align="center">🎨 Frontend Development</h3>
 
-### Testing Frameworks
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Development Environments
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<h3 align="center">⚙️ Backend & Databases</h3>
 
-### Servers & Databases
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <br>C#
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+        <br>SQL Server
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<h3 align="center">🔧 Development Tools</h3>
 
-## 📬 Contacts and Socials
-
-📧 **Email:** [matimotthetimoters@gmail.com](mailto:matimotthetimoters@gmail.com)  
-📘 **Facebook:** [ChonkySeal0295](https://www.facebook.com/ChonkySeal0295/)  
-🎮 **Habitica:** [マシュー](https://habitica.com/profile/7cd0a992-017b-47f7-b8f6-5620181b0a29)
-
----
-
-## 🎯 Hobbies & Interests
-
-When I'm not coding, I enjoy:  
-
-### 🎸 Music & Fitness
-- Playing **fingerstyle guitar**
-- **Calisthenics**, jogging, and yoga/stretching
-
-### 📚 Learning & Creativity
-- **Journaling** and slip-box note-taking
-- Reading **non-fiction books** on Kindle
-- **Learning Japanese** using Anki, Duolingo, and e-books
-
-### 🎮 Entertainment
-- Watching **anime** and reading **manwha**
-- **Mobile gaming**
-- **Cooking** and experimenting with recipes
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+        <br>VS Studio
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+        <br>Android Studio
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+        <br>Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+        <br>Jest
+      </td>
+      <td align="center" width="96">
+        <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
+        <br>Vitest
+      </td>
+    </tr>
+  </table>
+</div>
