@@ -147,3 +147,40 @@
     </tr>
   </table>
 </div>
+
+---
+
+<h2 align="center">⚛️ Hobbies & Daily Habits</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00B894&center=true&vCenter=true&width=700&lines=Yoga+%7C+Jogging+%7C+Calisthenics+%7C+Guitar+Fingerstyle;Journaling+%7C+Pomodoro+Study+%7C+Reading+%7C+Language+Learning" alt="Hobbies typing" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="280">🧘 <strong>Yoga</strong><br>Short daily flows to stay flexible and focused.</td>
+      <td align="left" width="280">🏃 <strong>Jogging</strong><br>Regular runs for cardio and clarity.</td>
+    </tr>
+    <tr>
+      <td align="left" width="280">💪 <strong>Calisthenics</strong><br>Bodyweight strength routines.</td>
+      <td align="left" width="280">🍽️ <strong>MyFitnessPal</strong><br>Recording meals & tracking macros.</td>
+    </tr>
+    <tr>
+      <td align="left" width="280">⚖️ <strong>Weight Tracking</strong><br>Regular weigh-ins to monitor progress.</td>
+      <td align="left" width="280">📓 <strong>Notion Journaling</strong><br>Daily reflections and planning.</td>
+    </tr>
+    <tr>
+      <td align="left" width="280">🎸 <strong>Guitar — Fingerstyle</strong><br>Practice routines and repertoire building.</td>
+      <td align="left" width="280">🔰 <strong>Learning Japanese</strong><br>Duolingo, Anki & Kindle e-books.</td>
+    </tr>
+    <tr>
+      <td align="left" width="280">📚 <strong>Reading</strong><br>Non-fiction on Kindle + mangas & manwhas.</td>
+      <td align="left" width="280">⏱️ <strong>Pomodoro Study</strong><br>Focused sessions with short breaks.</td>
+    </tr>
+    <tr>
+      <td align="left" width="280">📖 <strong>Bible — YouVersion</strong><br>Daily short readings.</td>
+      <td align="left" width="280">🎬 <strong>Movies & Anime</strong><br>Netflix watchlist & inspiration.</td>
+    </tr>
+  </table>
+</div>
