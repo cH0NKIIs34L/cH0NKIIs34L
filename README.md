@@ -26,9 +26,6 @@
   <a href="https://www.facebook.com/ChonkySeal0295/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://habitica.com/profile/7cd0a992-017b-47f7-b8f6-5620181b0a29">
-    <img src="https://img.shields.io/badge/Habitica-3066BE?style=for-the-badge&logo=habitica&logoColor=white" alt="Habitica" />
-  </a>
 </div>
 
 <br>
@@ -90,16 +87,16 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-        <br>SQL Server
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
         <br>SQLite
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="T-SQL" />
+        <br>T-SQL
       </td>
     </tr>
   </table>
@@ -137,9 +134,15 @@
         <br>Vite
       </td>
       <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="48" height="48" alt="Babel" />
+        <br>Babel
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
         <br>Jest
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
         <br>Vitest
