@@ -32,9 +32,9 @@
 <hr>
 <br>
 
-<h1 align="center">🛠️ Tech Stack</h1>
+<h1 align="center">🛠️ TECH STACK</h1>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center">🎨 FRONTEND</h3>
 
 <div align="center">
   <table>
@@ -63,7 +63,7 @@
   </table>
 </div>
 
-<h3 align="center">⚙️ Backend & Databases</h3>
+<h3 align="center">⚙️ BACKEND</h3>
 
 <div align="center">
   <table>
@@ -102,7 +102,7 @@
   </table>
 </div>
 
-<h3 align="center">🔧 Development Tools</h3>
+<h3 align="center">🔧 TOOLS</h3>
 
 <div align="center">
   <table>
@@ -153,37 +153,77 @@
 
 ---
 
-<h2 align="center">⚛️ Hobbies & Daily Habits</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00B894&center=true&vCenter=true&width=700&lines=Yoga+%7C+Jogging+%7C+Calisthenics+%7C+Guitar+Fingerstyle;Journaling+%7C+Pomodoro+Study+%7C+Reading+%7C+Language+Learning" alt="Hobbies typing" />
-</p>
+<h2 align="center">⚽ HOBBIES</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="280">🧘 <strong>Yoga</strong><br>Short daily flows to stay flexible and focused.</td>
-      <td align="left" width="280">🏃 <strong>Jogging</strong><br>Regular runs for cardio and clarity.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Yoga-6DB33F?style=flat&logo=yoga&logoColor=white" />
+        <br><strong>Yoga</strong><br>
+        Short daily flows to stay flexible and focused.
+      </td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Jogging-FF6F00?style=flat&logo=running&logoColor=white" />
+        <br><strong>Jogging</strong><br>
+        Regular runs for cardio and mental clarity.
+      </td>
     </tr>
     <tr>
-      <td align="left" width="280">💪 <strong>Calisthenics</strong><br>Bodyweight strength routines.</td>
-      <td align="left" width="280">🍽️ <strong>MyFitnessPal</strong><br>Recording meals & tracking macros.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Calisthenics-1E88E5?style=flat&logo=googlefit&logoColor=white" />
+        <br><strong>Calisthenics</strong><br>
+        Bodyweight strength routines.
+      </td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/MyFitnessPal-0E4C92?style=flat&logo=myfitnesspal&logoColor=white" />
+        <br><strong>Meal Tracking</strong><br>
+        Logging meals & macros consistently.
+      </td>
     </tr>
     <tr>
-      <td align="left" width="280">⚖️ <strong>Weight Tracking</strong><br>Regular weigh-ins to monitor progress.</td>
-      <td align="left" width="280">📓 <strong>Notion Journaling</strong><br>Daily reflections and planning.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+        <br><strong>Journaling</strong><br>
+        Daily reflections, systems, and planning.
+      </td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Guitar-F57C00?style=flat&logo=musicbrainz&logoColor=white" />
+        <br><strong>Guitar — Fingerstyle</strong><br>
+        Practice and repertoire building.
+      </td>
     </tr>
     <tr>
-      <td align="left" width="280">🎸 <strong>Guitar — Fingerstyle</strong><br>Practice routines and repertoire building.</td>
-      <td align="left" width="280">🔰 <strong>Learning Japanese</strong><br>Duolingo, Anki & Kindle e-books.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Japanese-E53935?style=flat&logo=duolingo&logoColor=white" />
+        <br><strong>Japanese Learning</strong><br>
+        Duolingo, Anki, and Kindle immersion.
+      </td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Kindle-FF9900?style=flat&logo=amazonkindle&logoColor=white" />
+        <br><strong>Kindle Reading</strong><br>
+        Non-fiction ebooks, mangas & manwhas.
+      </td>
     </tr>
     <tr>
-      <td align="left" width="280">📚 <strong>Reading</strong><br>Non-fiction on Kindle + mangas & manwhas.</td>
-      <td align="left" width="280">⏱️ <strong>Pomodoro Study</strong><br>Focused sessions with short breaks.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Pomofocus-D32F2F?style=flat&logo=pomofocus&logoColor=white" />
+        <br><strong>Pomofocus Study</strong><br>
+        Focused deep-work sessions with breaks.
+      </td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/YouVersion-673AB7?style=flat&logo=bible&logoColor=white" />
+        <br><strong>Bible — YouVersion</strong><br>
+        Short daily devotional readings.
+      </td>
     </tr>
     <tr>
-      <td align="left" width="280">📖 <strong>Bible — YouVersion</strong><br>Daily short readings.</td>
-      <td align="left" width="280">🎬 <strong>Movies & Anime</strong><br>Netflix watchlist & inspiration.</td>
+      <td align="left" width="320">
+        <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white" />
+        <br><strong>Movies & Anime</strong><br>
+        Netflix watchlist & creative inspiration.
+      </td>
+      <td></td>
     </tr>
   </table>
 </div>
