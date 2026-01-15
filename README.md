@@ -9,12 +9,11 @@
   Passionate about creating digital solutions and mastering the art of code.<br>
   Constantly expanding my skills through academic studies and online courses.<br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+better+systems+one+commit+at+a+time;Turning+ideas+into+functional+reality;Progress+over+perfection+always" alt="Typing SVG" />
+  <img 
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=1000&pause=500&color=4A90E2&center=true&vCenter=true&width=500&height=90&multiline=true&lines=You+do+not+rise+to+the+level+of+your+goals.;You+fall+to+the+level+of+your+systems.;Habits+are+the+compound+interest+of+self-improvement.;Tiny+changes%2C+remarkable+results." 
+  alt="Typing SVG"
+  />
 </p>
-
-<div align="center">
-  <em>✨ "You do not rise to the level of your goals. You fall to the level of your systems."<br>— James Clear, Atomic Habits</em>
-</div>
 
 <br>
 
@@ -34,7 +33,7 @@
 
 <h1 align="center">🛠️ TECH STACK</h1>
 
-<h3 align="center">🎨 FRONTEND</h3>
+<h3 align="center">FRONTEND</h3>
 
 <div align="center">
   <table>
@@ -63,7 +62,7 @@
   </table>
 </div>
 
-<h3 align="center">⚙️ BACKEND</h3>
+<h3 align="center">BACKEND</h3>
 
 <div align="center">
   <table>
@@ -102,7 +101,7 @@
   </table>
 </div>
 
-<h3 align="center">🔧 TOOLS</h3>
+<h3 align="center">TOOLS</h3>
 
 <div align="center">
   <table>
@@ -147,83 +146,6 @@
         <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
         <br>Vitest
       </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">⚽ HOBBIES</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Yoga-6DB33F?style=flat&logo=yoga&logoColor=white" />
-        <br><strong>Yoga</strong><br>
-        Short daily flows to stay flexible and focused.
-      </td>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Jogging-FF6F00?style=flat&logo=running&logoColor=white" />
-        <br><strong>Jogging</strong><br>
-        Regular runs for cardio and mental clarity.
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Calisthenics-1E88E5?style=flat&logo=googlefit&logoColor=white" />
-        <br><strong>Calisthenics</strong><br>
-        Bodyweight strength routines.
-      </td>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/MyFitnessPal-0E4C92?style=flat&logo=myfitnesspal&logoColor=white" />
-        <br><strong>Meal Tracking</strong><br>
-        Logging meals & macros consistently.
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-        <br><strong>Journaling</strong><br>
-        Daily reflections, systems, and planning.
-      </td>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Guitar-F57C00?style=flat&logo=musicbrainz&logoColor=white" />
-        <br><strong>Guitar — Fingerstyle</strong><br>
-        Practice and repertoire building.
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Japanese-E53935?style=flat&logo=duolingo&logoColor=white" />
-        <br><strong>Japanese Learning</strong><br>
-        Duolingo, Anki, and Kindle immersion.
-      </td>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Kindle-FF9900?style=flat&logo=amazonkindle&logoColor=white" />
-        <br><strong>Kindle Reading</strong><br>
-        Non-fiction ebooks, mangas & manwhas.
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Pomofocus-D32F2F?style=flat&logo=pomofocus&logoColor=white" />
-        <br><strong>Pomofocus Study</strong><br>
-        Focused deep-work sessions with breaks.
-      </td>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/YouVersion-673AB7?style=flat&logo=bible&logoColor=white" />
-        <br><strong>Bible — YouVersion</strong><br>
-        Short daily devotional readings.
-      </td>
-    </tr>
-    <tr>
-      <td align="left" width="320">
-        <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white" />
-        <br><strong>Movies & Anime</strong><br>
-        Netflix watchlist & creative inspiration.
-      </td>
-      <td></td>
     </tr>
   </table>
 </div>
