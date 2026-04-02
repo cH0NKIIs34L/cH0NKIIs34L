@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm <a href="https://github.com/MatimotTheTimoters" title="GitHub Profile">Chonky_Seal</a></h2>
+<h2 align="center">👋 Hi, I'm <a href="cH0NKIIs3AL title="GitHub Profile">ChonkySeal</a></h2>
 
 <p align="center">
   💻 IT Student • 🌐 Full-Stack Developer • 🧠 Systems-Based Learner
